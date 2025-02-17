@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rodrigo Gama
+# Rodrigo Gama
 
 **`Especialista FinOps`**
 
