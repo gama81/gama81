@@ -3,11 +3,11 @@
 **`Especialista FinOps`**
 
 Me chamo Rodrigo Vieira Gama, sou natural de São Paulo. 
-Sou um profissional com mais de 25 anos de experiência em TI, especializado em FinOps e administração de infraestrutura.
-Minha trajetória inclui atuação em grandes bancos, como Bradesco e Itaú, onde liderei iniciativas para otimização de custos em nuvem, implementação de showback e chargeback e criação de KPIs estratégicos.
-Utilizo ferramentas como Apptio Cloudability, Power BI e Turbonomic para garantir eficiência operacional e redução de desperdícios, gerando economias significativas. Trabalhei Desenvolvimento de business case de previsão e planejamento de gasto em migrações para cloud.
-Além do foco em governança financeira da nuvem, tenho ampla experiência na administração de ambientes de TI, incluindo redes, servidores Windows e Linux, virtualização e políticas de backup e contingência.
-###
+Sou um profissional com mais de 25 anos de experiência em tecnologia da informação, com expertise tanto em governança de custos em nuvem (FinOps) quanto na administração de ambientes de TI. Minha trajetória inclui atuação em grandes instituições como Banco Bradesco, Itaú Unibanco e Claro Brasil, além de experiência prévia na gestão de infraestrutura tecnológica em empresas de diferentes segmentos.
+Minha especialização em FinOps envolve planejamento financeiro da nuvem, otimização de custos, implementação de práticas como showback e chargeback, criação de KPIs estratégicos e desenvolvimento de business cases para controle e redução de despesas operacionais. Utilizo ferramentas como Apptio Cloudability, Power BI, Turbonomic e Azure Cost Management para embasar decisões e promover eficiência operacional. Nos últimos anos, liderei projetos de otimização que geraram economias significativas, incluindo descomissionamento de recursos ociosos e adoção de reservas de instâncias e Compute Savings Plans.
+Além disso, possuo sólida experiência na administração de ambientes de TI, abrangendo redes, servidores (Windows e Linux), virtualização e implementação de políticas de backup e contingência. Trabalhei diretamente na estruturação e modernização de data centers (pequeno porte), servidores Dell e HP, montagem de Rack, gestão de infraestrutura corporativa e implementação de sistemas de telefonia Asterisk. Minha trajetória inclui ainda coordenação de projetos de TI baseados em metodologias como Scrum, ITIL e PMI, garantindo alta disponibilidade e eficiência dos serviços.
+Minha combinação de conhecimentos em FinOps e administração de TI me permite atuar de forma estratégica na otimização de custos e na governança tecnológica, sempre alinhando eficiência financeira, segurança e estabilidade dos ambientes de TI. 
+---
 
 ### 🤖 Linguagens e Tecnologias
 
