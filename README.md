@@ -7,8 +7,8 @@ Sou um profissional com mais de 25 anos de experiência em tecnologia da informa
 Minha especialização em FinOps envolve planejamento financeiro da nuvem, otimização de custos, implementação de práticas como showback e chargeback, criação de KPIs estratégicos e desenvolvimento de business cases para controle e redução de despesas operacionais. Utilizo ferramentas como Apptio Cloudability, Power BI, Turbonomic e Azure Cost Management para embasar decisões e promover eficiência operacional. Nos últimos anos, liderei projetos de otimização que geraram economias significativas, incluindo descomissionamento de recursos ociosos e adoção de reservas de instâncias e Compute Savings Plans.
 Além disso, possuo sólida experiência na administração de ambientes de TI, abrangendo redes, servidores (Windows e Linux), virtualização e implementação de políticas de backup e contingência. Trabalhei diretamente na estruturação e modernização de data centers (pequeno porte), servidores Dell e HP, montagem de Rack, gestão de infraestrutura corporativa e implementação de sistemas de telefonia Asterisk. Minha trajetória inclui ainda coordenação de projetos de TI baseados em metodologias como Scrum, ITIL e PMI, garantindo alta disponibilidade e eficiência dos serviços.
 Minha combinação de conhecimentos em FinOps e administração de TI me permite atuar de forma estratégica na otimização de custos e na governança tecnológica, sempre alinhando eficiência financeira, segurança e estabilidade dos ambientes de TI. 
----
 
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img 
