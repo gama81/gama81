@@ -30,7 +30,7 @@ Me chamo Rodrigo Vieira Gama, sou natural de São Paulo.
     title="GCP"
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"          
 />
 <img 
     align="left" 
