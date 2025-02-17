@@ -2,7 +2,14 @@
 
 **`Especialista FinOps`**
 
-Me chamo Rodrigo Vieira Gama, sou natural de São Paulo.
+Me chamo Rodrigo Vieira Gama, sou natural de São Paulo. 
+Sou um profissional com mais de 25 anos de experiência em TI, especializado em FinOps e administração de infraestrutura.
+Minha trajetória inclui atuação em grandes bancos, como Bradesco e Itaú, onde liderei iniciativas para otimização de custos em nuvem, implementação de showback e chargeback e criação de KPIs estratégicos.
+Utilizo ferramentas como Apptio Cloudability, Power BI e Turbonomic para garantir eficiência operacional e redução de desperdícios, gerando economias significativas.
+
+Além do foco em governança financeira da nuvem, tenho ampla experiência na administração de ambientes de TI, incluindo redes, servidores Windows e Linux, virtualização, segurança da informação e políticas de backup e contingência. Trabalhei na modernização de data centers e na implementação de soluções estratégicas para infraestrutura.
+
+No BMG, minha experiência pode contribuir para fortalecer a governança dos custos em nuvem, garantindo previsibilidade orçamentária e alinhamento com os objetivos de negócio. Minha visão estratégica e conhecimento técnico permitirão otimizar o uso da infraestrutura, garantindo eficiência e inovação para apoiar o crescimento do banco.
 
 ###
 
