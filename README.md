@@ -5,10 +5,8 @@
 Me chamo Rodrigo Vieira Gama, sou natural de São Paulo. 
 Sou um profissional com mais de 25 anos de experiência em TI, especializado em FinOps e administração de infraestrutura.
 Minha trajetória inclui atuação em grandes bancos, como Bradesco e Itaú, onde liderei iniciativas para otimização de custos em nuvem, implementação de showback e chargeback e criação de KPIs estratégicos.
-Utilizo ferramentas como Apptio Cloudability, Power BI e Turbonomic para garantir eficiência operacional e redução de desperdícios, gerando economias significativas. rabalhei Desenvolvimento de business case de previsão e planejamento de gasto em migrações para cloud.
-
-
-Além do foco em governança financeira da nuvem, tenho ampla experiência na administração de ambientes de TI, incluindo redes, servidores Windows e Linux, virtualização e políticas de backup e contingência. T
+Utilizo ferramentas como Apptio Cloudability, Power BI e Turbonomic para garantir eficiência operacional e redução de desperdícios, gerando economias significativas. Trabalhei Desenvolvimento de business case de previsão e planejamento de gasto em migrações para cloud.
+Além do foco em governança financeira da nuvem, tenho ampla experiência na administração de ambientes de TI, incluindo redes, servidores Windows e Linux, virtualização e políticas de backup e contingência.
 ###
 
 ### 🤖 Linguagens e Tecnologias
