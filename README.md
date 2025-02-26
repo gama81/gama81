@@ -72,12 +72,13 @@ diretamente na estruturação e modernização de data centers (pequeno porte), 
 <br/>
 
 <p align="justify">
-O objetivo deste estudo é demonstrar a lógica utilizada para identificar oportunidades de economia por meio do desligamento de instâncias EC2 durante os finais de semana. Com essa mesma abordagem, também é possível identificar oportunidades para desligamento em dias úteis, fora do horário comercial. Essa lógica pode ser aplicada tanto a instâncias EC2 quanto a RDS.
+Este estudo tem como objetivo demonstrar uma estratégia eficaz para reduzir custos na nuvem: identificar instâncias EC2 que permanecem ligadas nos finais de semana sem necessidade.
 
-A planilha abaixo apresenta o custo das EC2 nos finais de semana, fornecendo uma estimativa do potencial de economia ao otimizar o uso dessas instâncias.
-</p>
+A mesma abordagem pode ser aplicada para desligamento de instâncias em dias úteis, fora do horário comercial, maximizando a eficiência dos recursos. Além das EC2, essa lógica também se estende a bancos de dados RDS.
+
+A tabela abaixo apresenta os custos das instâncias EC2 ao longo do mês de janeiro, destacando os valores registrados nos finais de semana. Essa análise permite estimar o potencial de economia ao otimizar o uso desses recursos.
 
 <br/>
 
-
+![Image](https://github.com/user-attachments/assets/296b4fd4-6274-41eb-8863-1c33d89c22bf)
 
