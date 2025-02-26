@@ -64,4 +64,29 @@ Além disso, possuo sólida experiência na administração de ambientes de TI, 
 diretamente na estruturação e modernização de data centers (pequeno porte), servidores Dell e HP, montagem de Rack, gestão de infraestrutura corporativa e implementação de sistemas de telefonia Asterisk.          Minha trajetória inclui ainda coordenação de projetos de TI baseados em metodologias como Scrum, ITIL e PMI, garantindo alta disponibilidade e eficiência dos serviços. Minha combinação de conhecimentos em FinOps e administração de TI me permite atuar de forma estratégica na otimização de custos e na governança tecnológica, sempre alinhando eficiência financeira, segurança e estabilidade dos ambientes de TI. 
 </p>
 
+***
+<br/>
+
+**`Identificando instância ligadas nos finais de semana`**
+
+<br/>
+
+<p align="justify">
+O objetivo deste estudo é demonstrar a lógica utilizada para identificar oportunidades de economia por meio do desligamento de instâncias EC2 durante os finais de semana. Com essa mesma abordagem, também é possível identificar oportunidades para desligamento em dias úteis, fora do horário comercial. Essa lógica pode ser aplicada tanto a instâncias EC2 quanto a RDS.
+
+A planilha abaixo apresenta o custo das EC2 nos finais de semana, fornecendo uma estimativa do potencial de economia ao otimizar o uso dessas instâncias.
+</p>
+
+<br/>
+
+<img 
+    align="center" 
+    alt="EC2-FDS"
+    title="EC2-FDS" 
+    width="640"
+    height="480"
+    allow="autoplay"
+    src="https://drive.google.com/file/d/118nBV-_64QZ1Uldx898c-qGZfR9hrtY3/preview"        
+/>
+
 
