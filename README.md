@@ -79,14 +79,5 @@ A planilha abaixo apresenta o custo das EC2 nos finais de semana, fornecendo uma
 
 <br/>
 
-<img 
-    align="center" 
-    alt="EC2-FDS"
-    title="EC2-FDS" 
-    width="640"
-    height="480"
-    allow="autoplay"
-    src="https://drive.google.com/file/d/118nBV-_64QZ1Uldx898c-qGZfR9hrtY3/preview"        
-/>
 
 
