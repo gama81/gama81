@@ -65,7 +65,7 @@ diretamente na estruturação e modernização de data centers (pequeno porte), 
 
 <br/>
 
-<h2>Identificando instância ligadas nos finais de semana</h2>
+<h2>📊Identificando instância ligadas nos finais de semana</h2>
 
 <br/>
 
@@ -81,3 +81,21 @@ A tabela abaixo apresenta os custos das instâncias EC2 ao longo do mês de jane
 ![Image](https://github.com/user-attachments/assets/0e897ded-0e6b-4dac-8d57-b940b563bfb1)
 
 <br/> Um exemplo, dentre varias opções de automação: https://github.com/gama81/Stop-Start-EC2 <br/> 
+
+<br/>
+<br/>
+
+<h2>📊 On-Demand como Principal Oportunidade de Economia</h2>
+
+<p>Nesta análise, exploramos dados reais sobre os custos de EC2 ao longo do mês, segmentando o consumo por tipo de contrato (<strong>On-Demand, Reserved Instances (RI) e Savings Plans</strong>). Os insights extraídos ajudam a entender:</p>
+
+<ul>
+    <li>✅ Como o modelo <strong>On-Demand</strong> impacta diretamente o orçamento.</li>
+    <li>✅ Quais ações podem ser implementadas para <strong>reduzir custos</strong> sem comprometer a operação.</li>
+    <li>✅ Como estruturar uma <strong>estratégia de otimização contínua</strong> para melhorar a eficiência financeira.</li>
+</ul>
+
+<p>Nos gráficos e tabelas a seguir, veremos detalhes sobre a distribuição dos custos e como podemos <strong>tomar decisões estratégicas</strong> para reduzir despesas sem comprometer a disponibilidade dos serviços. 🚀</p>
+   
+
+
