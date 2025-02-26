@@ -43,6 +43,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"          
 />
 
+
 <br/>
 <br/>
 <p align="justify">
@@ -62,8 +63,9 @@ cases para controle e redução de despesas operacionais. Utilizo ferramentas co
 Além disso, possuo sólida experiência na administração de ambientes de TI, abrangendo redes, servidores (Windows e Linux), virtualização e implementação de políticas de backup e contingência. Trabalhei 
 diretamente na estruturação e modernização de data centers (pequeno porte), servidores Dell e HP, montagem de Rack, gestão de infraestrutura corporativa e implementação de sistemas de telefonia Asterisk.          Minha trajetória inclui ainda coordenação de projetos de TI baseados em metodologias como Scrum, ITIL e PMI, garantindo alta disponibilidade e eficiência dos serviços. Minha combinação de conhecimentos em FinOps e administração de TI me permite atuar de forma estratégica na otimização de custos e na governança tecnológica, sempre alinhando eficiência financeira, segurança e estabilidade dos ambientes de TI. 
 </p>
-
 <br/>
+
+---
 
 <h2>📊Identificando instância ligadas nos finais de semana</h2>
 
@@ -83,7 +85,8 @@ A tabela abaixo apresenta os custos das instâncias EC2 ao longo do mês de jane
 <br/> Um exemplo, dentre varias opções de automação: https://github.com/gama81/Stop-Start-EC2 <br/> 
 
 <br/>
-<br/>
+
+---
 
 <h2>📊 On-Demand como Principal Oportunidade de Economia</h2>
 
