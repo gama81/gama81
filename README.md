@@ -80,5 +80,5 @@ A tabela abaixo apresenta os custos das instâncias EC2 ao longo do mês de jane
 
 <br/>
 
-![Image](https://github.com/user-attachments/assets/296b4fd4-6274-41eb-8863-1c33d89c22bf)
+![Image](https://github.com/user-attachments/assets/0e897ded-0e6b-4dac-8d57-b940b563bfb1)
 
