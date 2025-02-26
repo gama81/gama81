@@ -82,3 +82,4 @@ A tabela abaixo apresenta os custos das instâncias EC2 ao longo do mês de jane
 
 ![Image](https://github.com/user-attachments/assets/0e897ded-0e6b-4dac-8d57-b940b563bfb1)
 
+<br/> Um exemplo, dentre varias opções de automação: https://github.com/gama81/Stop-Start-EC2 <br/> 
