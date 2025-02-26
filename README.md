@@ -97,5 +97,9 @@ A tabela abaixo apresenta os custos das instâncias EC2 ao longo do mês de jane
 
 <p>Nos gráficos e tabelas a seguir, veremos detalhes sobre a distribuição dos custos e como podemos <strong>tomar decisões estratégicas</strong> para reduzir despesas sem comprometer a disponibilidade dos serviços. 🚀</p>
    
+![Image](https://github.com/user-attachments/assets/bc90408f-1017-4f54-bc7d-5dd36e91c871)
 
+<br/>
+<br/>
 
+![Image](https://github.com/user-attachments/assets/5e321801-14a7-47c3-a70a-13876d9f4252)
