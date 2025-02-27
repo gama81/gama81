@@ -46,23 +46,18 @@
 
 <br/>
 <br/>
-<p align="justify">
-Me chamo <b>Rodrigo Vieira Gama</b>, sou natural de São Paulo, pai do Enzo, resolvedor de problemas e churrasqueiro semiprofissional!.
-</p>
-<p align="justify">
-Sou um <b>profissional com mais de 25 anos de experiência em tecnologia da informação</b>, com expertise tanto em governança de custos em nuvem <b>(FinOps)</b> quanto na administração de ambientes de TI.
+<p align="justify"> Me chamo <b>Rodrigo Vieira Gama</b>, sou natural de São Paulo, pai do Enzo, resolvedor de problemas e churrasqueiro semiprofissional!.</p>
+
+<p align="justify"> Sou um <b>profissional com mais de 25 anos de experiência em tecnologia da informação</b>, com expertise tanto em governança de custos em nuvem <b>(FinOps)</b> quanto na administração de ambientes de TI.
 Minha trajetória inclui <b>atuação em grandes instituições como Banco Bradesco, Itaú Unibanco e Claro Brasil</b>, além de experiência prévia na gestão de infraestrutura tecnológica em empresas de diferentes 
-segmentos.
-</p>
-<p align="justify">
-Minha especialização em FinOps envolve planejamento financeiro da nuvem, otimização de custos, implementação de práticas como showback e chargeback, criação de KPIs estratégicos e desenvolvimento de business 
+segmentos. </p>
+
+<p align="justify"> Minha especialização em FinOps envolve planejamento financeiro da nuvem, otimização de custos, implementação de práticas como showback e chargeback, criação de KPIs estratégicos e desenvolvimento de business 
 cases para controle e redução de despesas operacionais. Utilizo ferramentas como Apptio Cloudability, Power BI, Turbonomic e Azure Cost Management para embasar decisões e promover eficiência operacional. Nos 
-últimos anos, liderei projetos de otimização que geraram economias significativas, incluindo descomissionamento de recursos ociosos e adoção de reservas de instâncias e Compute Savings Plans.
-</p>
-<p align="justify">
-Além disso, possuo sólida experiência na administração de ambientes de TI, abrangendo redes, servidores (Windows e Linux), virtualização e implementação de políticas de backup e contingência. Trabalhei 
-diretamente na estruturação e modernização de data centers (pequeno porte), servidores Dell e HP, montagem de Rack, gestão de infraestrutura corporativa e implementação de sistemas de telefonia Asterisk.          Minha trajetória inclui ainda coordenação de projetos de TI baseados em metodologias como Scrum, ITIL e PMI, garantindo alta disponibilidade e eficiência dos serviços. Minha combinação de conhecimentos em FinOps e administração de TI me permite atuar de forma estratégica na otimização de custos e na governança tecnológica, sempre alinhando eficiência financeira, segurança e estabilidade dos ambientes de TI. 
-</p>
+últimos anos, liderei projetos de otimização que geraram economias significativas, incluindo descomissionamento de recursos ociosos e adoção de reservas de instâncias e Compute Savings Plans.</p>
+
+<p align="justify"> Além disso, possuo sólida experiência na administração de ambientes de TI, abrangendo redes, servidores (Windows e Linux), virtualização e implementação de políticas de backup e contingência. Trabalhei diretamente na estruturação e modernização de data centers (pequeno porte), servidores Dell e HP, montagem de Rack, gestão de infraestrutura corporativa e implementação de sistemas de telefonia Asterisk. Minha trajetória inclui ainda coordenação de projetos de TI baseados em metodologias como Scrum, ITIL e PMI, garantindo alta disponibilidade e eficiência dos serviços. Minha combinação de conhecimentos em FinOps e administração de TI me permite atuar de forma estratégica na otimização de custos e na governança tecnológica, sempre alinhando eficiência financeira, segurança e estabilidade dos ambientes de TI.</p>
+
 <br/>
 
 ---
@@ -88,7 +83,7 @@ A tabela abaixo apresenta os custos das instâncias EC2 ao longo do mês de jane
 
 ---
 
-<h2>📊 On-Demand como Principal Oportunidade de Economia</h2>
+<h2> 📊On-Demand como Principal Oportunidade de Economia</h2>
 
 <p>Nesta análise, exploramos dados reais sobre os custos de EC2 ao longo do mês, segmentando o consumo por tipo de contrato (<strong>On-Demand, Reserved Instances (RI) e Savings Plans</strong>). Os insights extraídos ajudam a entender:</p>
 
