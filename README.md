@@ -239,3 +239,20 @@ A decisão entre AMD e Intel deve considerar:
 Em resumo, tanto a AMD quanto a Intel oferecem soluções robustas. A escolha ideal dependerá das particularidades de cada empresa e de suas prioridades em termos de desempenho e custo.
 </p>
 
+<br/>
+
+<p align="justify">
+Nos gráficos e tabelas a seguir, apresentamos um estudo detalhado sobre a distribuição de CPUs AMD e Intel em seu parque de instâncias EC2, facilitando a visualização e compreensão dessa composição.
+
+Iniciaremos explorando a convenção de nomenclatura das instâncias da AWS (AWS Instance Type Naming Convention). A figura abaixo ilustra o significado da composição do Instance Type, uma informação essencial para identificar instâncias que utilizam CPUs AMD, Intel ou ARM. Esse processo será aplicado na planilha apresentada a seguir.
+</p>
+<img
+    align="left" 
+    width="360px"
+    style="padding-right: 360px;"
+  src="https://github.com/user-attachments/assets/b0216436-3d57-4ed7-a7c5-bae39072b5a1"   
+/>
+
+
+
+
