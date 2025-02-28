@@ -225,6 +225,38 @@ A eficiência energética é um fator crítico na escolha de processadores, espe
 - **Tarefas Multithreaded**: <p align="justify">A AMD destaca-se em aplicações que se beneficiam de múltiplos núcleos, como renderização 3D e simulações complexas, devido à sua arquitetura que favorece o multitarefa.</p>
 - **Desempenho Single-Thread**: <p align="justify">A Intel mantém vantagem em aplicações que dependem de alto desempenho por núcleo, como jogos e certas aplicações financeiras.</p>
 
+
+## Bussines Case
+<p align="justify">
+Nos gráficos e tabelas a seguir, apresentamos um estudo detalhado sobre a distribuição de CPUs AMD e Intel em seu parque de instâncias EC2, facilitando a visualização e compreensão dessa composição.
+
+Iniciaremos explorando a convenção de nomenclatura das instâncias da AWS (AWS Instance Type Naming Convention). A figura abaixo ilustra o significado da composição do Instance Type, uma informação essencial para identificar instâncias que utilizam CPUs AMD, Intel ou ARM. Esse processo será aplicado na planilha apresentada a seguir.
+</p>
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/b0216436-3d57-4ed7-a7c5-bae39072b5a1" width="50%">
+
+---
+
+<br/>
+
+<h2>📊 Insight Estratégico: Otimização de Custos em EC2 - AMD vs. Intel </h2>
+
+<br/>
+<br/>
+
+![Image](https://github.com/user-attachments/assets/2e46068b-2294-4149-97f1-9f06dfc85457)
+
+
+<br/>
+<br/>
+
+![Image](https://github.com/user-attachments/assets/0a074b44-ce2d-46a1-a9d0-fb1ded5a9b02)
+
+<br/>
+<br/>
+
 ## Considerações Finais
 
 <p align="justify">
@@ -238,21 +270,5 @@ A decisão entre AMD e Intel deve considerar:
 <p align="justify">
 Em resumo, tanto a AMD quanto a Intel oferecem soluções robustas. A escolha ideal dependerá das particularidades de cada empresa e de suas prioridades em termos de desempenho e custo.
 </p>
-
-<br/>
-
-<p align="justify">
-Nos gráficos e tabelas a seguir, apresentamos um estudo detalhado sobre a distribuição de CPUs AMD e Intel em seu parque de instâncias EC2, facilitando a visualização e compreensão dessa composição.
-
-Iniciaremos explorando a convenção de nomenclatura das instâncias da AWS (AWS Instance Type Naming Convention). A figura abaixo ilustra o significado da composição do Instance Type, uma informação essencial para identificar instâncias que utilizam CPUs AMD, Intel ou ARM. Esse processo será aplicado na planilha apresentada a seguir.
-</p>
-<img
-    align="left" 
-    width="360px"
-    style="padding-right: 360px;"
-  src="https://github.com/user-attachments/assets/b0216436-3d57-4ed7-a7c5-bae39072b5a1"   
-/>
-
-
 
 
