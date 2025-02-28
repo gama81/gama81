@@ -243,7 +243,6 @@ Iniciaremos explorando a convenção de nomenclatura das instâncias da AWS (AWS
 
 <img src="https://github.com/user-attachments/assets/b0216436-3d57-4ed7-a7c5-bae39072b5a1" width="50%">
 
----
 
 <br/>
 
