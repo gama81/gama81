@@ -76,56 +76,56 @@
 />
 <img 
     align="left" 
-    alt="GitHub"
-    title="GitHub" 
+    alt="AWS Certified Cloud Practitioner"
+    title="AWS Certified Cloud Practitioner" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/510a302c-ecab-4344-9ecb-6ddf5c7be42b"
 />
 <img 
     align="left" 
-    alt="GitHub"
-    title="GitHub" 
+    alt="Microsoft Certified: Azure Data Fundamentals"
+    title="Microsoft Certified: Azure Data Fundamentals" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/1e2ab8ea-8491-460e-864d-5985d28ed34a"
 />
 <img 
     align="left" 
-    alt="GitHub"
-    title="GitHub" 
+    alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals"
+    title="Microsoft Certified: Security, Compliance, and Identity Fundamentals" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/62366706-6918-47ee-88fa-3efe1b605e37"
 />
 <img 
     align="left" 
-    alt="GitHub"
-    title="GitHub" 
+    alt="Microsoft Certified: Power Platform Fundamentals"
+    title="Microsoft Certified: Power Platform Fundamentals" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/f76393c6-44fb-425f-a675-f21ed072a7fb"
 />
 <img 
     align="left" 
-    alt="GitHub"
-    title="GitHub" 
+    alt="Microsoft Certified: Azure AI Fundamentals"
+    title="Microsoft Certified: Azure AI Fundamentals" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/08ce58c4-ce88-4049-9b7f-33cc24316d35"
 />
 <img 
     align="left" 
-    alt="GitHub"
-    title="GitHub" 
+    alt="AWS Partner: Cloud Economics Essentials"
+    title="AWS Partner: Cloud Economics Essentials" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/66ef0371-c600-46bd-8156-ed9f854609a7"
 />
 <img 
     align="left" 
-    alt="GitHub"
-    title="GitHub" 
+    alt="Scrum Foundation Professional Certification - SFPC™"
+    title="Scrum Foundation Professional Certification - SFPC™" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/1cbbc0b2-3c87-4dfa-a611-0816123f24a8"
