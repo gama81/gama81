@@ -152,12 +152,11 @@ cases para controle e redução de despesas operacionais. Utilizo ferramentas co
 
 <br/>
 
-<p align="justify">
-Este estudo tem como objetivo demonstrar uma estratégia eficaz para reduzir custos na nuvem: identificar instâncias EC2 que permanecem ligadas nos finais de semana sem necessidade.
+<p align="justify"> Este estudo tem como objetivo demonstrar uma estratégia eficaz para reduzir custos na nuvem: identificar instâncias EC2 que permanecem ligadas nos finais de semana sem necessidade.</p>
 
-A mesma abordagem pode ser aplicada para desligamento de instâncias em dias úteis, fora do horário comercial, maximizando a eficiência dos recursos. Além das EC2, essa lógica também se estende a bancos de dados RDS.
+<p align="justify">A mesma abordagem pode ser aplicada para desligamento de instâncias em dias úteis, fora do horário comercial, maximizando a eficiência dos recursos. Além das EC2, essa lógica também se estende a bancos de dados RDS.</p>
 
-A tabela abaixo apresenta os custos das instâncias EC2 ao longo do mês de janeiro, destacando os valores registrados nos finais de semana. Essa análise permite estimar o potencial de economia ao otimizar o uso desses recursos.
+<p align="justify">A tabela abaixo apresenta os custos das instâncias EC2 ao longo do mês de janeiro, destacando os valores registrados nos finais de semana. Essa análise permite estimar o potencial de economia ao otimizar o uso desses recursos.</p>
 
 <br/>
 
@@ -171,7 +170,7 @@ A tabela abaixo apresenta os custos das instâncias EC2 ao longo do mês de jane
 
 <h2> 📊On-Demand como Principal Oportunidade de Economia</h2>
 
-<p>Nesta análise, exploramos dados reais sobre os custos de EC2 ao longo do mês, segmentando o consumo por tipo de contrato (<strong>On-Demand, Reserved Instances (RI) e Savings Plans</strong>). Os insights extraídos ajudam a entender:</p>
+<p align="justify">Nesta análise, exploramos dados reais sobre os custos de EC2 ao longo do mês, segmentando o consumo por tipo de contrato (<strong>On-Demand, Reserved Instances (RI) e Savings Plans</strong>). Os insights extraídos ajudam a entender:</p>
 
 <ul>
     <li>✅ Como o modelo <strong>On-Demand</strong> impacta diretamente o orçamento.</li>
@@ -179,7 +178,7 @@ A tabela abaixo apresenta os custos das instâncias EC2 ao longo do mês de jane
     <li>✅ Como estruturar uma <strong>estratégia de otimização contínua</strong> para melhorar a eficiência financeira.</li>
 </ul>
 
-<p>Nos gráficos e tabelas a seguir, veremos detalhes sobre a distribuição dos custos e como podemos <strong>tomar decisões estratégicas</strong> para reduzir despesas sem comprometer a disponibilidade dos serviços. 🚀</p>
+<p align="justify">Nos gráficos e tabelas a seguir, veremos detalhes sobre a distribuição dos custos e como podemos <strong>tomar decisões estratégicas</strong> para reduzir despesas sem comprometer a disponibilidade dos serviços. 🚀</p>
    
 ![Image](https://github.com/user-attachments/assets/bc90408f-1017-4f54-bc7d-5dd36e91c871)
 
