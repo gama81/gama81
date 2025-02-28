@@ -44,32 +44,32 @@
 />
 <img 
     align="left" 
-    alt="GitHub"
-    title="GitHub" 
+    alt="DOMO BI"
+    title="DOMO BI" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/9a4357b3-01d7-454d-a7ac-315142b1ef28"
 />
 <img 
     align="left" 
-    alt="GitHub"
-    title="GitHub" 
+    alt="FinOps Certified Practitioner"
+    title="FinOps Certified Practitioner" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/129b2f65-26c9-4501-8054-c046e9b504e0"
 />
 <img 
     align="left" 
-    alt="GitHub"
-    title="GitHub" 
+    alt="Microsoft Certified: Azure Administrator Associate"
+    title="Microsoft Certified: Azure Administrator Associate" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/35992d80-5c96-4dcd-aada-67ecf2328fc9"
 />
 <img 
     align="left" 
-    alt="GitHub"
-    title="GitHub" 
+    alt="Microsoft Certified: Azure Fundamentals"
+    title="Microsoft Certified: Azure Fundamentals" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/c91ac7bd-a544-42e6-8c43-fe52f71afa8a"
