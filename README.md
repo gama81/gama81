@@ -58,6 +58,24 @@
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/35992d80-5c96-4dcd-aada-67ecf2328fc9"
 />
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/c91ac7bd-a544-42e6-8c43-fe52f71afa8a"
+/>
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/510a302c-ecab-4344-9ecb-6ddf5c7be42b"
+/>
+
+
 
 <br/>
 <br/>
