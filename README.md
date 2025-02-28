@@ -200,7 +200,8 @@ A escolha entre processadores AMD e Intel é uma decisão crucial para empresas 
 ## Desempenho e Custo-Benefício
 
 <p align="justify">
-<!-- Análises indicam que, embora a Intel possa oferecer CPUs com custo superior, a linha de CPUs de 14° geração da Intel apresenta melhor custo-benefício para a maioria dos usuários. Isso se deve ao equilíbrio entre desempenho e preço, tornando-as adequadas para diversas aplicações empresariais. -->
+Análises indicam que, embora a Intel possa oferecer CPUs com custo superior, a linha de CPUs de 14° geração da Intel apresenta melhor custo-benefício para a maioria dos usuários. Isso se deve ao equilíbrio entre desempenho e preço, tornando-as adequadas para diversas aplicações empresariais.
+</p>
 
 [Leia mais](https://www.avast.com/pt-br/c-amd-vs-intel-cpu)
 
