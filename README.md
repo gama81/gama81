@@ -1,4 +1,10 @@
-<h1> Rodrigo Gama 🚀 Especialista FinOps </h1>
+<h1> Rodrigo Gama 🚀 Especialista FinOps
+
+<a href="https://github.com/user-attachments/files/19029170/Rodrigo_Vieira_Gama_FinOps.pdf">
+  <img src="https://github.com/user-attachments/assets/803fc95b-213a-4227-9844-cae725202b5b" width="3%" title="Download do Currículo">
+</a>
+
+</h1>
 
 **Certificações**
 
