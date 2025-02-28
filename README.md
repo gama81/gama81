@@ -50,7 +50,14 @@
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/129b2f65-26c9-4501-8054-c046e9b504e0"
 />
-
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/35992d80-5c96-4dcd-aada-67ecf2328fc9"
+/>
 
 <br/>
 <br/>
