@@ -1,6 +1,4 @@
-# Rodrigo Gama
-
-<h1> 🚀 Especialista FinOps</h1>
+<h1> Rodrigo Gama 🚀 Especialista FinOps</h1>
 
 <img 
     align="left" 
