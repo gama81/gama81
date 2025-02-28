@@ -1,54 +1,7 @@
 <h1> Rodrigo Gama 🚀 Especialista FinOps </h1>
 
+**Certificações**
 
-<img 
-    align="left" 
-    alt="AWS"
-    title="AWS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"        
-/>
-<img 
-    align="left" 
-    alt="Azure" 
-    title="Azure"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"          
-/>
-<img 
-    align="left" 
-    alt="GCP" 
-    title="GCP"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"          
-/>
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"           
-/>
-<img 
-    align="left" 
-    alt="GitHub"
-    title="GitHub" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-<img 
-    align="left" 
-    alt="DOMO BI"
-    title="DOMO BI" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://github.com/user-attachments/assets/9a4357b3-01d7-454d-a7ac-315142b1ef28"
-/>
 <img 
     align="left" 
     alt="FinOps Certified Practitioner"
@@ -130,6 +83,59 @@
     src="https://github.com/user-attachments/assets/1cbbc0b2-3c87-4dfa-a611-0816123f24a8"
 />
 
+<br/>
+<br/>
+
+**Tecnologias**
+
+<img 
+    align="left" 
+    alt="AWS"
+    title="AWS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"        
+/>
+<img 
+    align="left" 
+    alt="Azure" 
+    title="Azure"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"          
+/>
+<img 
+    align="left" 
+    alt="GCP" 
+    title="GCP"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"          
+/>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"           
+/>
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+<img 
+    align="left" 
+    alt="DOMO BI"
+    title="DOMO BI" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/9a4357b3-01d7-454d-a7ac-315142b1ef28"
+/>
 
 <br/>
 <br/>
