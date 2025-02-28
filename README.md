@@ -74,7 +74,54 @@
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/510a302c-ecab-4344-9ecb-6ddf5c7be42b"
 />
-
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/1e2ab8ea-8491-460e-864d-5985d28ed34a"
+/>
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/62366706-6918-47ee-88fa-3efe1b605e37"
+/>
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/f76393c6-44fb-425f-a675-f21ed072a7fb"
+/>
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/08ce58c4-ce88-4049-9b7f-33cc24316d35"
+/>
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/66ef0371-c600-46bd-8156-ed9f854609a7"
+/>
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/1cbbc0b2-3c87-4dfa-a611-0816123f24a8"
+/>
 
 
 <br/>
