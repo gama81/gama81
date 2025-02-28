@@ -186,3 +186,48 @@ cases para controle e redução de despesas operacionais. Utilizo ferramentas co
 <br/>
 
 ![Image](https://github.com/user-attachments/assets/5e321801-14a7-47c3-a70a-13876d9f4252)
+
+<br/>
+
+---
+
+<h2>📊 Comparativo de Custo e Desempenho: Processadores AMD vs. Intel </h2>
+
+<p align="justify">
+A escolha entre processadores AMD e Intel é uma decisão crucial para empresas que buscam equilibrar desempenho e custo. Diversos estudos e análises destacam as diferenças em eficiência, preço e aplicabilidade entre as duas marcas.
+</p>
+
+## Desempenho e Custo-Benefício
+
+<p align="justify">
+<!-- Análises indicam que, embora a Intel possa oferecer CPUs com custo superior, a linha de CPUs de 14° geração da Intel apresenta melhor custo-benefício para a maioria dos usuários. Isso se deve ao equilíbrio entre desempenho e preço, tornando-as adequadas para diversas aplicações empresariais. -->
+
+[Leia mais](https://www.avast.com/pt-br/c-amd-vs-intel-cpu)
+
+## Eficiência Energética
+
+<p align="justify">
+A eficiência energética é um fator crítico na escolha de processadores, especialmente em ambientes corporativos onde o consumo de energia impacta diretamente os custos operacionais. Estudos apontam que os processadores AMD EPYC™ oferecem desempenho semelhante aos Intel Xeon, porém com menor consumo de energia, resultando em economia significativa a longo prazo.
+</p>
+
+[Leia mais](https://ascentoptics.com/blog/pt/choosing-the-right-server-cpu-intel-vs-amd-server-processors-for-sale)
+
+## Casos de Uso e Aplicações
+
+- **Tarefas Multithreaded**: <p align="justify">A AMD destaca-se em aplicações que se beneficiam de múltiplos núcleos, como renderização 3D e simulações complexas, devido à sua arquitetura que favorece o multitarefa.</p>
+- **Desempenho Single-Thread**: <p align="justify">A Intel mantém vantagem em aplicações que dependem de alto desempenho por núcleo, como jogos e certas aplicações financeiras.</p>
+
+## Considerações Finais
+
+<p align="justify">
+A decisão entre AMD e Intel deve considerar:
+</p>
+
+- **Necessidades Específicas**: Avaliar as demandas específicas das aplicações em uso.
+- **Orçamento Disponível**: Considerar o investimento inicial e os custos operacionais a longo prazo.
+- **Eficiência Energética**: Levar em conta o consumo de energia e o impacto ambiental.
+
+<p align="justify">
+Em resumo, tanto a AMD quanto a Intel oferecem soluções robustas. A escolha ideal dependerá das particularidades de cada empresa e de suas prioridades em termos de desempenho e custo.
+</p>
+
