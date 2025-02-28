@@ -48,6 +48,14 @@
     title="GitHub" 
     width="30px" 
     style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/9a4357b3-01d7-454d-a7ac-315142b1ef28"
+/>
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/129b2f65-26c9-4501-8054-c046e9b504e0"
 />
 <img 
