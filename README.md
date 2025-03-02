@@ -161,6 +161,14 @@ cases para controle e redução de despesas operacionais. Utilizo ferramentas co
 
 ---
 
+<h2>📊Artigos </h2>
+
+[Alavancando o FinOps para Maximizar a Eficiência Financeira: Uma Perspectiva Através das Lentes da Teoria da Janela Quebrada e Teoria dos jogos](https://www.linkedin.com/pulse/alavancando-o-finops-para-maximizar-efici%C3%AAncia-uma-da-rodrigo/?trackingId=%2FfMOZSToSz%2BNfeCDmcAJFw%3D%3D) 
+
+<br/>
+
+---
+
 <h2>📊Identificando instância ligadas nos finais de semana</h2>
 
 <br/>
@@ -276,4 +284,87 @@ A decisão entre AMD e Intel deve considerar:
 Em resumo, tanto a AMD quanto a Intel oferecem soluções robustas. A escolha ideal dependerá das particularidades de cada empresa e de suas prioridades em termos de desempenho e custo.
 </p>
 
+<br/>
+<br/>
+
+---
+
+<h2> 📊 KPIs de FinOps para Otimização de Custos em Cloud </h2>
+
+<br/>
+
+A implementação de **KPIs estratégicos** permite que as áreas da corporação monitorem e **reduzam desperdícios**, promovendo maior eficiência financeira na nuvem.  
+
+
+## 🚀 Exemplos de KPIs  
+
+### 1️⃣ Ineficiência de EC2  
+- **Fórmula:**  
+  ```(Total gasto com EC2 subutilizada) ÷ (Total gasto com EC2)```  
+- **Objetivo:** Reduzir custos com instâncias EC2 que operam com baixa utilização de CPU/memória.  
+- **Exemplo:** Se 30% das EC2 estão com uso abaixo de 10% de CPU, ações de **rightsizing ou desligamento** devem ser tomadas.  
+
+### 2️⃣ Ineficiência de RDS  
+- **Fórmula:**  
+  ```(Total gasto com RDS subutilizado) ÷ (Total gasto com RDS)```  
+- **Objetivo:** Ajustar tamanhos e configurações de bancos de dados RDS para evitar desperdícios.  
+- **Exemplo:** Um RDS provisionado para **16 vCPUs e 64 GB RAM**, mas com uso médio de apenas **2 vCPUs**, deve ser reconfigurado para um tamanho menor.  
+
+### 3️⃣ Desatualização de EC2  
+- **Fórmula:**  
+  ```(Total gasto com EC2 desatualizadas) ÷ (Total gasto com EC2)```  
+- **Objetivo:** Garantir que instâncias EC2 utilizem **gerações mais recentes** para maior eficiência de custo e desempenho.  
+- **Exemplo:** Se **40% das EC2** são da geração **m4** ao invés da **m6g**, há potencial de economia ao realizar a migração.  
+
+### 4️⃣ Desatualização de RDS  
+- **Fórmula:**  
+  ```(Total gasto com RDS desatualizados) ÷ (Total gasto com RDS)```  
+- **Objetivo:** Identificar bancos de dados em versões legadas e promover upgrades para versões mais eficientes.  
+- **Exemplo:** Bancos RDS rodando **
+
+ ### 5️⃣ Volume de EBS Órfão  
+- **Fórmula:**  
+  ```Total de EBS não anexado a instância ativa```  
+- **Objetivo:** Reduzir desperdício de volumes de armazenamento que continuam gerando custos sem uso.  
+- **Exemplo:** A corporação pode ter **500 TB de EBS** sem associação a instâncias, gerando custos desnecessários.  
+
+### 6️⃣ Estouro de Orçamento  
+- **Fórmula:**  
+  ```(Custo acima do orçamento) ÷ (Valor orçado)```  
+- **Objetivo:** Monitorar áreas que ultrapassam o orçamento definido e identificar causas.  
+- **Exemplo:** Se o orçamento mensal de cloud era **R$ 2 milhões**, mas os custos chegaram a **R$ 2,5 milhões**, é necessário investigar o aumento e ajustar previsões.  
+
+### 7️⃣ Aderência a Instâncias Reservadas e Savings Plans  
+- **Fórmula:**  
+  ```(Total gasto em instâncias reservadas e Savings Plans) ÷ (Total gasto com EC2/RDS)```  
+- **Objetivo:** Maximizar o uso de **contratos de longo prazo** para reduzir custos operacionais.  
+- **Exemplo:** Um time que usa apenas **30% de instâncias reservadas** pode aumentar essa taxa para **60%+**, gerando economia significativa.  
+
+### 8️⃣ Eficiência de Auto Shutdown  
+- **Fórmula:**  
+  ```(Total de instâncias desligadas automaticamente fora do horário de uso) ÷ (Total de instâncias não críticas)```  
+- **Objetivo:** Garantir que workloads de **Desenvolvimento/Teste** sejam desligados quando não utilizados.  
+- **Exemplo:** Servidores de teste devem estar **desligados entre 20h e 8h**, evitando cobranças desnecessárias.  
+
+### 9️⃣ Uso de Spot Instances em Ambientes Não Críticos  
+- **Fórmula:**  
+  ```(Total gasto em Spot Instances) ÷ (Total gasto com EC2 em ambientes não críticos)```  
+- **Objetivo:** Maximizar o uso de **instâncias Spot** para workloads de desenvolvimento e testes, reduzindo custos sem impactar operações críticas.  
+- **Exemplo:** Ambientes de **Dev/Test** devem utilizar **80%+ de instâncias Spot**, ao invés de instâncias On-Demand mais caras.  
+
+### 🔟 Uso de Recursos de Alto Custo em Ambientes de Desenvolvimento  
+- **Fórmula:**  
+  ```(Total gasto com instâncias de alto desempenho em Dev/Test) ÷ (Total gasto com infraestrutura de Dev/Test)```  
+- **Objetivo:** Reduzir o uso de instâncias premium (exemplo: **máquinas otimizadas para GPU, alto throughput de rede, grandes volumes de memória**) onde não são necessárias.  
+- **Exemplo:** Um ambiente de **Desenvolvimento** rodando em EC2 **x1e.32xlarge** (1TB RAM) pode ser substituído por uma configuração menor sem comprometer a produtividade.  
+
+---
+
+## ✅ Conclusão  
+
+Monitorando esses **KPIs de FinOps**, a corporação pode **reduzir desperdícios**, **aumentar a eficiência** e **garantir previsibilidade financeira** no uso da nuvem.  
+
+Além disso, esses indicadores incentivam uma **cultura de FinOps**, onde as áreas se tornam responsáveis pelo uso otimizado dos recursos.  
+
+📌 *Mantenha os custos sob controle e maximize a eficiência da cloud!* 🚀  
 
