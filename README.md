@@ -161,7 +161,7 @@ cases para controle e redução de despesas operacionais. Utilizo ferramentas co
 
 ---
 
-<h2>📊Artigos </h2>
+<h2>📊 Artigos </h2>
 
 [Alavancando o FinOps para Maximizar a Eficiência Financeira: Uma Perspectiva Através das Lentes da Teoria da Janela Quebrada e Teoria dos jogos](https://www.linkedin.com/pulse/alavancando-o-finops-para-maximizar-efici%C3%AAncia-uma-da-rodrigo/?trackingId=%2FfMOZSToSz%2BNfeCDmcAJFw%3D%3D) 
 
@@ -169,7 +169,7 @@ cases para controle e redução de despesas operacionais. Utilizo ferramentas co
 
 ---
 
-<h2>📊Identificando instância ligadas nos finais de semana</h2>
+<h2>📊 Identificando instância ligadas nos finais de semana</h2>
 
 <br/>
 
@@ -189,7 +189,7 @@ cases para controle e redução de despesas operacionais. Utilizo ferramentas co
 
 ---
 
-<h2> 📊On-Demand como Principal Oportunidade de Economia</h2>
+<h2> 📊 On-Demand como Principal Oportunidade de Economia</h2>
 
 <p align="justify">Nesta análise, exploramos dados reais sobre os custos de EC2 ao longo do mês, segmentando o consumo por tipo de contrato (<strong>On-Demand, Reserved Instances (RI) e Savings Plans</strong>). Os insights extraídos ajudam a entender:</p>
 
