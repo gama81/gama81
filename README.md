@@ -91,7 +91,6 @@
 />
 
 <br/>
-
 <br/>
 
 
@@ -148,6 +147,8 @@
 
 <br/>
 <br/>
+
+
 <p align="justify"> Me chamo <b>Rodrigo Vieira Gama</b>, sou natural de São Paulo, pai do Enzo, resolvedor de problemas e churrasqueiro semiprofissional!.</p>
 
 <p align="justify"> Sou um <b>profissional com mais de 25 anos de experiência em tecnologia da informação</b>, com expertise tanto em governança de custos em nuvem <b>(FinOps)</b> quanto na administração de ambientes de TI.
