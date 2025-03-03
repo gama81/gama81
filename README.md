@@ -362,7 +362,8 @@ A implementação de **KPIs estratégicos** permite que as áreas da corporaçã
 - **Objetivo:** Reduzir o uso de instâncias premium (exemplo: **máquinas otimizadas para GPU, alto throughput de rede, grandes volumes de memória**) onde não são necessárias.  
 - **Exemplo:** Um ambiente de **Desenvolvimento** rodando em EC2 **x1e.32xlarge** (1TB RAM) pode ser substituído por uma configuração menor sem comprometer a produtividade.  
 
----
+<br/>
+<br/>
 
 ## ✅ Conclusão  
 
@@ -371,4 +372,75 @@ Monitorando esses **KPIs de FinOps**, a corporação pode **reduzir desperdício
 Além disso, esses indicadores incentivam uma **cultura de FinOps**, onde as áreas se tornam responsáveis pelo uso otimizado dos recursos.  
 
 📌 *Mantenha os custos sob controle e maximize a eficiência da cloud!* 🚀  
+
+<br/>
+<br/>
+
+---
+
+## 📊 Otimização de Custos no Amazon CloudWatch
+
+O **AWS CloudWatch** costuma ser um dos principais ofensores nos custos dos ambientes, pois é uma ferramenta poderosa para monitoramento e observabilidade na AWS, mas seu uso inadequado pode resultar em custos elevados. A seguir, apresentamos estratégias para **otimizar esses custos**, garantindo eficiência sem comprometer a funcionalidade.
+
+**Observação:** Como em toda ação de FinOps, assegure-se de que as áreas de Negócios, Arquitetura e Segurança validem e aprovem a otimização proposta antes da implementação.
+
+
+### 🔎 1. Análise de Custos com o AWS Cost Explorer
+
+ **Visualização Detalhada**: Utilize o **AWS Cost Explorer** para examinar os gastos associados ao CloudWatch.  
+**Dica**: Filtre por serviço e agrupe por tipo de uso ou operação de API para identificar áreas de maior despesa.
+
+<img width="848" alt="Image" src="https://github.com/user-attachments/assets/bd6cdf90-4ea9-4565-bb04-420665bd424c" />
+
+🔗 [Documentação Oficial](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-explorer.html)
+
+
+
+### 📈 2. Otimização de Métricas
+
+**Métricas Personalizadas**: Crie **métricas personalizadas** apenas quando necessário, pois elas são cobradas proporcionalmente por hora.  
+**Monitoramento Detalhado**: Ative o **monitoramento detalhado** somente para recursos críticos, evitando custos adicionais desnecessários.  
+
+🔗 [Documentação Oficial](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html)
+
+
+
+### 🔔 3. Gerenciamento de Alarmes
+
+**Configuração Eficiente**: Revise regularmente os **alarmes configurados**, removendo aqueles que não são mais relevantes ou que monitoram recursos inexistentes.  
+**Alarmes Compostos**: Utilize **alarmes compostos** para reduzir o número total de alarmes, consolidando múltiplas condições em um único alarme.  
+
+🔗 [Documentação Oficial](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html)
+
+
+
+### 📂 4. Controle de Logs
+
+**Políticas de Retenção**: Defina **políticas de retenção adequadas** para os logs, garantindo que dados antigos sejam excluídos automaticamente, reduzindo custos de armazenamento.  
+**Filtragem de Logs**: Configure o **agente do CloudWatch** para coletar apenas os logs essenciais, evitando a ingestão de dados irrelevantes.  
+
+🔗 [Documentação Oficial](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html)
+
+
+
+### 🚀 5. Uso de Fluxos de Métricas
+
+**Transmissão Seletiva**: Implemente **fluxos de métricas** para transmitir apenas os dados necessários para destinos específicos, como o **Amazon S3**, facilitando análises e integração com outras ferramentas.  
+
+🔗 [Documentação Oficial](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch-Metric-Streams.html)
+
+
+
+### 📊 6. Monitoramento de Solicitações de API
+
+**Agrupamento de Dados**: Ao enviar dados para o CloudWatch, **agrupa o máximo de informações possível** em cada chamada de API, diminuindo o número total de solicitações e os custos associados.  
+**Uso de GetMetricStatistics**: Considere utilizar a API **GetMetricStatistics** em vez de **GetMetricData**, pois a primeira pode estar incluída no nível gratuito da AWS, dependendo do volume de solicitações.  
+
+🔗 [Documentação Oficial](https://docs.aws.amazon.com/AmazonCloudWatch/latest/APIReference/API_GetMetricStatistics.html)
+
+
+
+### 🎯 Conclusão
+
+Ao adotar essas práticas, é possível **otimizar os custos do Amazon CloudWatch**, garantindo um equilíbrio entre **monitoramento eficaz e despesas controladas**. 🚀
 
