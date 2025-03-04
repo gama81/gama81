@@ -446,6 +446,7 @@ Ao adotar essas práticas, é possível **otimizar os custos do Amazon CloudWatc
 
 ---
 
+
 ## 📊 Uso de guardrails de boas práticas de FinOps em ambientes não produtivos
 
 Para garantir que instâncias **Spot** sejam utilizadas em **ambientes não produtivos** na AWS, recomenda-se a adoção das seguintes abordagens:
