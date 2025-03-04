@@ -444,3 +444,89 @@ O **AWS CloudWatch** costuma ser um dos principais ofensores nos custos dos ambi
 
 Ao adotar essas práticas, é possível **otimizar os custos do Amazon CloudWatch**, garantindo um equilíbrio entre **monitoramento eficaz e despesas controladas**. 🚀
 
+---
+
+## 📊 Uso de guardrails de boas práticas de FinOps em ambientes não produtivos
+
+Para garantir que instâncias **Spot** sejam utilizadas em **ambientes não produtivos** na AWS, recomenda-se a adoção das seguintes abordagens:
+
+ 
+
+### 1. Estrutura de Contas e Unidades Organizacionais (OUs)
+
+A separação de ambientes em **contas distintas** organizadas dentro de **Unidades Organizacionais (OUs)** específicas, como **Produção** e **Não Produção**, permite um controle mais eficiente sobre o uso de instâncias Spot.  
+
+O **AWS Control Tower** facilita essa estruturação ao permitir a criação de uma **landing zone**, organizando contas e OUs conforme as melhores práticas.  
+
+[Documentação Oficial](https://docs.aws.amazon.com/controltower/latest/userguide/what-is-control-tower.html)  
+
+
+
+### 2. Aplicação de Controles (Guardrails) no AWS Control Tower  
+
+O **AWS Control Tower** oferece mecanismos de governança para manter a conformidade do ambiente. Embora não haja um controle específico para restringir instâncias Spot, é possível implementar **políticas personalizadas** para alcançar esse objetivo.  
+
+[Documentação Oficial](https://docs.aws.amazon.com/controltower/latest/userguide/controls.html)  
+
+
+
+### 3. Políticas de Controle de Serviço (SCPs) no AWS Organizations  
+
+As **Service Control Policies (SCPs)** permitem impor restrições às contas dentro de uma **OU específica**. Para evitar a criação de instâncias Spot em **ambientes produtivos**, pode-se criar uma SCP que negue explicitamente esse tipo de solicitação.  
+
+
+#### **Exemplo de SCP para Restringir Instâncias Spot**
+
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Deny",
+      "Action": "ec2:RunInstances",
+      "Resource": "*",
+      "Condition": {
+        "StringNotEquals": {
+          "ec2:InstanceMarketType": "spot"
+        }
+      }
+    }
+  ]
+}
+```
+
+<br/>
+
+#### **Agora um Exemplo de SCP para Bloquear EBS Órfãos (Não Anexados a Instâncias)**
+
+```json
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Deny",
+      "Action": [
+        "ec2:DeleteVolume",
+        "ec2:DetachVolume"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Effect": "Deny",
+      "Action": "ec2:CreateVolume",
+      "Resource": "*",
+      "Condition": {
+        "StringEquals": {
+          "ec2:VolumeAttachment": ""
+        }
+      }
+    }
+  ]
+}
+```
+
+
+
+
+
+
