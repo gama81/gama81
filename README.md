@@ -121,6 +121,16 @@ cases para controle e redução de despesas operacionais. Utilizo ferramentas co
 
 ---
 
+<br/>
+
+<h2>📢 Disclaimer: Conteúdo Meramente Ilustrativo</h2>
+
+<p align="justify"> Os dados, informações e exemplos apresentados neste portfólio são fictícios e utilizados apenas para fins ilustrativos e educacionais. Nenhuma das informações aqui compartilhadas deve ser interpretada como real, representando qualquer empresa, pessoa ou situação específica. Este material tem o objetivo exclusivo de demonstrar conhecimentos e habilidades técnicas sem qualquer vínculo com dados confidenciais ou proprietários.</p>
+
+<br/>
+
+---
+
 <h2>📊 Dashboard de Oportunidades de Economia na Nuvem – FinOps em Ação</h2>
 
 <br/>
