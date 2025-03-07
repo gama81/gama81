@@ -154,7 +154,7 @@ cases para controle e redução de despesas operacionais. Utilizo ferramentas co
 <p align="justify"> Esse dashboard é mais do que uma ferramenta, é um <strong>catalisador de cultura FinOps</strong>, impulsionando <strong>accountability, otimização contínua e eficiência financeira</strong> na nuvem.</p>
 
 
-<p>🔹 <mark><strong>Mais transparência → Melhor governança → Mais economia!</strong></mark></p>
+<h2 style="text-align: center;">🔹 <mark><strong>Mais transparência → Melhor governança → Mais economia!</strong></mark> 🔹</h2>
 
 
 
