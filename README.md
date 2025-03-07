@@ -2,6 +2,7 @@
 
 <a href="https://github.com/user-attachments/files/19029170/Rodrigo_Vieira_Gama_FinOps.pdf">
   <img src="https://github.com/user-attachments/assets/803fc95b-213a-4227-9844-cae725202b5b" width="3%" title="Download do Currículo">
+
 </a>
 
 </h1>
@@ -523,7 +524,9 @@ As **Service Control Policies (SCPs)** permitem impor restrições às contas de
   ]
 }
 ```
+---
 
+![Contador de Visitantes](https://visitor-badge.glitch.me/badge?page_id=gama81.gama81)
 
 
 
