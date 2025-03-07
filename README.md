@@ -7,7 +7,7 @@
 </h1>
 
 
-**Certificações**
+**Certificações e Tecnologias**
 
 <img 
     align="left" 
@@ -91,10 +91,6 @@
 />
 
 <br/>
-<br/>
-
-
-**Tecnologias**
 
 <img 
     align="left" 
@@ -147,6 +143,8 @@
 
 <br/>
 <br/>
+
+---
 
 
 <p align="justify"> Me chamo <b>Rodrigo Vieira Gama</b>, sou natural de São Paulo, pai do Enzo, resolvedor de problemas e churrasqueiro semiprofissional!.</p>
