@@ -6,7 +6,6 @@
 
 </h1>
 
-
 **Certificações e Tecnologias**
 
 <img 
@@ -90,56 +89,6 @@
     src="https://github.com/user-attachments/assets/1cbbc0b2-3c87-4dfa-a611-0816123f24a8"
 />
 
-<br/>
-
-<img 
-    align="left" 
-    alt="AWS"
-    title="AWS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"        
-/>
-<img 
-    align="left" 
-    alt="Azure" 
-    title="Azure"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"          
-/>
-<img 
-    align="left" 
-    alt="GCP" 
-    title="GCP"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"          
-/>
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"           
-/>
-<img 
-    align="left" 
-    alt="GitHub"
-    title="GitHub" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-<img 
-    align="left" 
-    alt="DOMO BI"
-    title="DOMO BI" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://github.com/user-attachments/assets/9a4357b3-01d7-454d-a7ac-315142b1ef28"
-/>
 
 <br/>
 <br/>
@@ -168,6 +117,53 @@ cases para controle e redução de despesas operacionais. Utilizo ferramentas co
 [Alavancando o FinOps para Maximizar a Eficiência Financeira: Uma Perspectiva Através das Lentes da Teoria da Janela Quebrada e Teoria dos jogos](https://www.linkedin.com/pulse/alavancando-o-finops-para-maximizar-efici%C3%AAncia-uma-da-rodrigo/?trackingId=%2FfMOZSToSz%2BNfeCDmcAJFw%3D%3D) 
 
 <br/>
+
+---
+
+<h2>📊 Dashboard de Oportunidades de Economia na Nuvem – FinOps em Ação</h2>
+
+<br/>
+
+![Image](https://github.com/user-attachments/assets/8062fcab-b6a4-4ea2-ae9a-a5f273b33439)
+
+
+<p align="justify">Este dashboard foi desenvolvido no <strong>Power BI</strong> para atender a um dos pilares fundamentais do <strong>FinOps</strong>: a <strong>democratização dos dados</strong>. O objetivo é dar total transparência às oportunidades de <strong>savings</strong> (economia) identificadas em <strong>recursos subutilizados</strong> na <strong>AWS</strong>, com base nas recomendações do <strong>AWS Cost Optimization Hub</strong>. No entanto, essa abordagem poderia ser aplicada a outras plataformas como <strong>Azure Advisor, Cloudability ou Turbonomic</strong>.</p>
+
+<h2>Como Funciona?</h2>
+
+<ul>
+  <li><strong>Extração de Dados</strong>: As recomendações de economia são coletadas e armazenadas em uma <strong>SharePoint List</strong>.</li>
+  <li><strong>Segurança e Auditoria</strong>: Com o SharePoint, conseguimos implementar <strong>controles de acesso e auditoria</strong>, garantindo governança sobre as ações de otimização.</li>
+  <li><strong>Atualização Colaborativa</strong>: Os próprios <strong>owners das infraestruturas</strong> podem atualizar o <strong>status das recomendações</strong> diretamente no SharePoint.</li>
+  <li><strong>Dashboard Dinâmico</strong>: Todas as atualizações refletem automaticamente no <strong>Power BI</strong>, garantindo <strong>dados em tempo real</strong> para análise e tomada de decisão.</li>
+</ul>
+
+<h2>O Que Esse Dashboard Entrega?</h2>
+
+<ul>
+  <li><strong>Visão Consolidada de Savings</strong>: Transparência total sobre o potencial de economia mensal.</li>
+  <li><strong>Acompanhamento de Implementação</strong>: Status das recomendações categorizadas por etapa (Executada, Em Planejamento, Em Análise, etc.).</li>
+  <li><strong>Economia por Serviço</strong>: Identificação das áreas mais impactadas (EC2, Storage, RDS, S3, etc.).</li>
+  <li><strong>Distribuição por Centro de Custo</strong>: Permite identificar onde estão as melhores oportunidades de otimização.</li>
+</ul>
+
+<h2>🏎️ O Insight por Trás: O Case do Toyota Prius no Livro FinOps</h2>
+
+<p align="justify"> Assim como no livro <strong>"FinOps"</strong>, onde é citado o <strong>case do Toyota Prius</strong>, sabemos que <strong>quando um condutor tem visibilidade em tempo real sobre sua performance de dirigibilidade, ele tende a melhorar sua condução</strong>. Aplicamos o mesmo princípio ao FinOps: <strong>ao dar transparência aos gastos e às oportunidades de economia, incentivamos as equipes a tomarem decisões mais eficientes e sustentáveis</strong>.</p>
+
+<p align="justify"> Esse dashboard é mais do que uma ferramenta, é um <strong>catalisador de cultura FinOps</strong>, impulsionando <strong>accountability, otimização contínua e eficiência financeira</strong> na nuvem.</p>
+
+
+<p>🔹 <mark><strong>Mais transparência → Melhor governança → Mais economia!</strong></mark></p>
+
+
+
+
+
+
+
+
+
 
 ---
 
