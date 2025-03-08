@@ -408,8 +408,6 @@ O **AWS CloudWatch** costuma ser um dos principais ofensores nos custos dos ambi
 **Métricas Personalizadas**: Crie **métricas personalizadas** apenas quando necessário, pois elas são cobradas proporcionalmente por hora.  
 **Monitoramento Detalhado**: Ative o **monitoramento detalhado** somente para recursos críticos, evitando custos adicionais desnecessários.  
 
-🔗 [Documentação Oficial](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html)
-
 
 
 ### 🔔 3. Gerenciamento de Alarmes
@@ -417,7 +415,6 @@ O **AWS CloudWatch** costuma ser um dos principais ofensores nos custos dos ambi
 **Configuração Eficiente**: Revise regularmente os **alarmes configurados**, removendo aqueles que não são mais relevantes ou que monitoram recursos inexistentes.  
 **Alarmes Compostos**: Utilize **alarmes compostos** para reduzir o número total de alarmes, consolidando múltiplas condições em um único alarme.  
 
-🔗 [Documentação Oficial](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html)
 
 
 
@@ -426,7 +423,6 @@ O **AWS CloudWatch** costuma ser um dos principais ofensores nos custos dos ambi
 **Políticas de Retenção**: Defina **políticas de retenção adequadas** para os logs, garantindo que dados antigos sejam excluídos automaticamente, reduzindo custos de armazenamento.  
 **Filtragem de Logs**: Configure o **agente do CloudWatch** para coletar apenas os logs essenciais, evitando a ingestão de dados irrelevantes.  
 
-🔗 [Documentação Oficial](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html)
 
 
 
@@ -434,17 +430,12 @@ O **AWS CloudWatch** costuma ser um dos principais ofensores nos custos dos ambi
 
 **Transmissão Seletiva**: Implemente **fluxos de métricas** para transmitir apenas os dados necessários para destinos específicos, como o **Amazon S3**, facilitando análises e integração com outras ferramentas.  
 
-🔗 [Documentação Oficial](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch-Metric-Streams.html)
-
 
 
 ### 📊 6. Monitoramento de Solicitações de API
 
 **Agrupamento de Dados**: Ao enviar dados para o CloudWatch, **agrupa o máximo de informações possível** em cada chamada de API, diminuindo o número total de solicitações e os custos associados.  
 **Uso de GetMetricStatistics**: Considere utilizar a API **GetMetricStatistics** em vez de **GetMetricData**, pois a primeira pode estar incluída no nível gratuito da AWS, dependendo do volume de solicitações.  
-
-🔗 [Documentação Oficial](https://docs.aws.amazon.com/AmazonCloudWatch/latest/APIReference/API_GetMetricStatistics.html)
-
 
 
 ### 🎯 Conclusão
