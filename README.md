@@ -139,6 +139,11 @@ cases para controle e redução de despesas operacionais. Utilizo ferramentas co
 
 ![Image](https://github.com/user-attachments/assets/04193071-3c33-4a40-9a1f-1a76521cce81)
 
+<br/>
+
+![Image](https://github.com/user-attachments/assets/621e5ed3-12a4-4147-a18b-9e8ea278c0f8)
+
+<br/>
 
 <p align="justify">Este dashboard foi desenvolvido no <strong>Power BI</strong> para atender a um dos pilares fundamentais do <strong>FinOps</strong>: a <strong>democratização dos dados</strong>. O objetivo é dar total transparência às oportunidades de <strong>savings</strong> (economia) identificadas em <strong>recursos subutilizados</strong> na <strong>AWS</strong>, com base nas recomendações do <strong>AWS Cost Optimization Hub</strong>. No entanto, essa abordagem poderia ser aplicada a outras plataformas como <strong>Azure Advisor, Cloudability ou Turbonomic</strong>.</p>
 
