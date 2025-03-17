@@ -11,6 +11,14 @@
 
 <img 
     align="left" 
+    alt="FinOps Certified Engineer"
+    title="FinOps Certified Engineer" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/bf30398a-a3e4-4f89-b262-26415df6ad1b"
+/>
+<img 
+    align="left" 
     alt="FinOps Certified Practitioner"
     title="FinOps Certified Practitioner" 
     width="30px" 
