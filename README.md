@@ -25,6 +25,14 @@
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/129b2f65-26c9-4501-8054-c046e9b504e0"
 />
+<img
+    align="left" 
+    alt="Cloudability Practitioner Advanced"
+    title="Cloudability Practitioner Advanced" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/fa48fee3-f4da-4407-8143-c100da9e318a"
+/>
 <img 
     align="left" 
     alt="Microsoft Certified: Azure Administrator Associate"
