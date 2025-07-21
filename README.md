@@ -27,11 +27,19 @@
 />
 <img
     align="left" 
-    alt="Cloudability Practitioner Advanced"
+    alt="Apptio Cloudability Practitioner Advanced"
     title="Cloudability Practitioner Advanced" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/fa48fee3-f4da-4407-8143-c100da9e318a"
+/>
+<img
+    align="left" 
+    alt="Apptio Cloudability Technical Sales Intermediate"
+    title="Apptio Cloudability Technical Sales Intermediate" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/e912d4a5-0c61-4fc9-8e84-29c4ab440b53"
 />
 <img 
     align="left" 
