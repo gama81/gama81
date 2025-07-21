@@ -28,7 +28,7 @@
 <img
     align="left" 
     alt="Apptio Cloudability Practitioner Advanced"
-    title="Cloudability Practitioner Advanced" 
+    title="Apptio Cloudability Practitioner Advanced" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/fa48fee3-f4da-4407-8143-c100da9e318a"
